@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:wght@900&display=swap');
+body{
+    background-image: url(img/wallpapersden.com_sunset-colorful-artwork_5120x2880.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    text-align: center;
+    
+}
+.titulo{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    background-image: url(img/Ghosts-Pokmon.png);
+    color: white;
+    text-shadow: 10px;
+    }
+.Frase{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    color: white;
+}
+
+.local{
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+    
+}
+.local-nome{
+    color: white;
+    font-size: 25px;
+}
+
+
+.lista{
+    color: white;
+    list-style: none;
+    font-size: 30px;
+}
